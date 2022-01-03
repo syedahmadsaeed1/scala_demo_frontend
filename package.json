@@ -1,0 +1,16 @@
+{
+  "name": "scala_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "framework7": "^6.3.12",
+    "source-map-support": "^0.5.21",
+    "template7": "^1.4.2"
+  }
+}
